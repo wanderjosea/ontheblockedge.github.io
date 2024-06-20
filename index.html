@@ -11,9 +11,23 @@
     }
     .blog-title {
       text-align: center;
-      font-size: 3rem;
+      font-size: 2.5rem;
+      line-height: 1.5;
       font-weight: bold;
+     
     }
+    @media (max-width: 768px) {
+  .blog-title {
+    font-size: 1.8rem; /* shadow title in small screens */
+  }
+}
+
+@media (max-width: 576px) {
+  .blog-title {
+    display: none; /* shadow title in small screens */
+    
+  }
+}
     .blog-entry {
       margin-bottom: 30px;
     }
