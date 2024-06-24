@@ -5,70 +5,14 @@ layout: default
 
 # WELCOME SECURITY ENTUSIAST
 
+Welcome to this space dedicated to hacking and blockchain, I am Gekk, and my 2 great hobbies are Cybersecurity and Blockchain, one is my job today, and the second is my hobby, I invite you to join this community, where I will be sharing my learning in cybersecurity and try to link this knowledge to blockchain whenever possible.
 
-INTRODUCCION AQUI.....
 
-## Header 2
+## What is Block on Brink 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I created this community to share content with 2 objectives, one is to continue my apprenticeship in cybersecurity, explaining a content is the best way to master it, and I want this to be the place where I can share it for free with the community, and another is, to start a community of people who share my interests for cybersecurity and blockchain.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
@@ -98,20 +42,13 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Twitter</dt>
+<dd>-------</dd>
+<dt>Discord</dt>
+<dd>......</dd>
+<dt>Galaxis</dt>
+<dd>Cooming Soon...</dd>
+
+
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
