@@ -28,9 +28,6 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Social Networks:
