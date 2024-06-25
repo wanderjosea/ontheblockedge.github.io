@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-[Hello World](./posts/hello_world.html).
 
 # WELCOME SECURITY ENTUSIAST
 
@@ -17,14 +16,11 @@ I created this community to share content with 2 objectives, one is to continue 
 ### POST:
 
 - Workshops for OSCP
-  Comming Soon...
+  - Comming Soon...
 - Usefull Tools for Blockchain Development
-  Comming Soon..
+  * Comming Soon..
 - Roadmap of a Security Analyst.
-  Comming Soon...
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+  * Comming Soon...
 
 
 ### Social Networks:
