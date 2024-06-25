@@ -23,22 +23,19 @@ I created this community to share content with 2 objectives, one is to continue 
   * Comming Soon...
 
 
+
 ### Social Networks:
 
-<dl>
-<dt>[X](https://x.com/blockonbrink)</dt> <dd>https://x.com/blockonbrink</dd>
-</dl>
-### Social Networks:
+<dl><dt>[X]</dt></dl>
 
 [X](https://x.com/blockonbrink)
+
 <dl>
-<dt>[X]</dt>
-<dd>[X](https://x.com/blockonbrink)</dd>
 <dt>Discord</dt>
 <dd>......</dd>
 <dt>Galaxis</dt>
 <dd>Cooming Soon...</dd>
-
-
 </dl>
+
+
 
