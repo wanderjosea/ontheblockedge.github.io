@@ -25,12 +25,9 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ### Social Networks:
 
-| Platform | Link |
-|---|---|
-| **X** | [X](https://x.com/blockonbrink) |
-| Discord | ...... |
-| Galaxis | Coming Soon... |
-
+<dl>
+<dt>[X](https://x.com/blockonbrink)</dt> <dd>https://x.com/blockonbrink</dd>
+</dl>
 ### Social Networks:
 
 [X](https://x.com/blockonbrink)
