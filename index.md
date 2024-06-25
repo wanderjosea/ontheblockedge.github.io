@@ -17,14 +17,11 @@ I created this community to share content with 2 objectives, one is to continue 
 ### POST:
 
 - Workshops for OSCP
-  - Comming Soon...
+  Comming Soon...
 - Usefull Tools for Blockchain Development
-  - Comming Soon..
+  Comming Soon..
 - Roadmap of a Security Analyst.
-  - Comming Soon...
-
-
-### Small image
+  Comming Soon...
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -33,8 +30,8 @@ I created this community to share content with 2 objectives, one is to continue 
 ### Social Networks:
 
 <dl>
-<dt>Twitter</dt>
-<dd>-------</dd>
+<dt>[Twitter](https://x.com/blockonbrink)</dt>
+<dd>https://x.com/blockonbrink</dd>
 <dt>Discord</dt>
 <dd>......</dd>
 <dt>Galaxis</dt>
