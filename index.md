@@ -24,10 +24,19 @@ I created this community to share content with 2 objectives, one is to continue 
 
 
 ### Social Networks:
-[Twitter](https://x.com/blockonbrink)
+
+| Platform | Link |
+|---|---|
+| **X** | [X](https://x.com/blockonbrink) |
+| Discord | ...... |
+| Galaxis | Coming Soon... |
+
+### Social Networks:
+
+[X](https://x.com/blockonbrink)
 <dl>
-<dt>[Twitter](https://x.com/blockonbrink)</dt>
-<dd>https://x.com/blockonbrink</dd>
+<dt>[X]</dt>
+<dd>[X](https://x.com/blockonbrink)</dd>
 <dt>Discord</dt>
 <dd>......</dd>
 <dt>Galaxis</dt>
