@@ -26,16 +26,11 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ### Social Networks:
 
-
-#### X
 [X](https://x.com/blockonbrink)
-<dl><dt>[X]</dt></dl> 
-
-
 
 <dl><dt>Discord</dt></dl>
 
-
+[Discord](https://discord.gg/3HDH5B9uqD)
 
 <dl>
 <dt>Galaxis</dt>
