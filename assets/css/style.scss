@@ -1,7 +1,7 @@
 @import "{{ site.theme }}";
 
 
-  .side-bar {
+  side-bar {
     position: fixed; /* Fija la barra lateral en su lugar */
     top: 0; /* Posiciona la barra lateral en la parte superior */
     left: 0; /* Posiciona la barra lateral a la izquierda */
@@ -11,17 +11,17 @@
     padding: 20px; /* Espacio de relleno interno */
   }
   
-  .nav-list {
+  nav-list {
     list-style: none; /* Elimina los marcadores de lista predeterminados */
     margin: 0; /* Elimina los márgenes predeterminados */
     padding: 0; /* Elimina el relleno predeterminado */
   }
   
-  .nav-list-item {
+  nav-list-item {
     margin-bottom: 20px; /* Espacio entre elementos de la lista */
   }
   
-  .nav-list-item a {
+  nav-list-item a {
     display: block; /* Ocupa todo el ancho del contenedor */
     color: #fff; /* Color del texto del enlace */
     text-decoration: none; /* Elimina el subrayado del enlace */
@@ -29,6 +29,6 @@
     padding: 10px 15px; /* Espacio de relleno alrededor del texto del enlace */
   }
   
-  .nav-list-item a:hover {
+  nav-list-item a:hover {
     background-color: #444; /* Color de fondo del enlace al pasar el cursor */
   }
