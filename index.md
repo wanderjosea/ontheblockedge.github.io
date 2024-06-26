@@ -26,14 +26,7 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ### Social Media:
 
-[X](https://x.com/blockonbrink)
 
-[Discord](https://discord.gg/3HDH5B9uqD)
-
-<dl>
-<dt>Galaxis</dt>
-<dd>Cooming Soon...</dd>
-</dl>
 
 
 
