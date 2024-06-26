@@ -1,1 +1,8 @@
 @import "{{ site.theme }}";
+
+
+.side-bar {
+    width: 40%;
+    max-width: $container-max-width;
+    margin: 0 auto;
+  }
