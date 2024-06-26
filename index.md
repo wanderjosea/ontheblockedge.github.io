@@ -16,7 +16,7 @@ I created this community to share content with 2 objectives, one is to continue 
 ### POST:
 
 - Workshops for OSCP
-  - Comming Soon...
+  * Comming Soon...
 - Usefull Tools for Blockchain Development
   * Comming Soon..
 - Roadmap of a Security Analyst.
@@ -27,8 +27,6 @@ I created this community to share content with 2 objectives, one is to continue 
 ### Social Networks:
 
 [X](https://x.com/blockonbrink)
-
-<dl><dt>Discord</dt></dl>
 
 [Discord](https://discord.gg/3HDH5B9uqD)
 
