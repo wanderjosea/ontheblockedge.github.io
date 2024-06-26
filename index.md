@@ -15,7 +15,7 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ### POST:
 
-- Workshops for OSCP
+- Workshops for HTB
   * Comming Soon...
 - Usefull Tools for Blockchain Development
   * Comming Soon..
@@ -24,7 +24,7 @@ I created this community to share content with 2 objectives, one is to continue 
 
 
 
-### Social Networks:
+### Social Media:
 
 [X](https://x.com/blockonbrink)
 
