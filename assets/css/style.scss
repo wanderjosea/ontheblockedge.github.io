@@ -1,28 +1,34 @@
 @import "{{ site.theme }}";
 
 
-.side-bar {
-    width: 40%;
-    max-width: $container-max-width;
-    margin: 0 auto;
+  .side-bar {
+    position: fixed; /* Fija la barra lateral en su lugar */
+    top: 0; /* Posiciona la barra lateral en la parte superior */
+    left: 0; /* Posiciona la barra lateral a la izquierda */
+    width: 250px; /* Ajusta el ancho de la barra lateral */
+    height: 100vh; /* Altura completa de la ventana */
+    background-color: #222; /* Color de fondo de la barra lateral */
+    padding: 20px; /* Espacio de relleno interno */
   }
-
-
-  .site-nav {
-    width: 40%;
-    max-width: $container-max-width;
-    margin: 0 auto;
-  }
-
+  
   .nav-list {
-    width: 40%;
-    max-width: $container-max-width;
-    margin: 0 auto;
+    list-style: none; /* Elimina los marcadores de lista predeterminados */
+    margin: 0; /* Elimina los márgenes predeterminados */
+    padding: 0; /* Elimina el relleno predeterminado */
   }
-
-
-  .navbar-list-item {
-    width: 100%;
-    max-width: $container-max-width;
-    margin: 0 auto;
+  
+  .nav-list-item {
+    margin-bottom: 20px; /* Espacio entre elementos de la lista */
+  }
+  
+  .nav-list-item a {
+    display: block; /* Ocupa todo el ancho del contenedor */
+    color: #fff; /* Color del texto del enlace */
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    font-size: 18px; /* Tamaño de fuente del texto del enlace */
+    padding: 10px 15px; /* Espacio de relleno alrededor del texto del enlace */
+  }
+  
+  .nav-list-item a:hover {
+    background-color: #444; /* Color de fondo del enlace al pasar el cursor */
   }
